@@ -1,0 +1,5 @@
+platform_device_info.json
+result/
+result_images/
+0_Intel_OPENCL_output.txt
+0_NVIDIA_CUDA_output.txt
